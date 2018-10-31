@@ -15,3 +15,5 @@ So basically they have tried to model their approach on the deep convolutional n
 
 
 I am further looking at increasing the depth of the model for better results.
+
+i am trying to improve my model by changing the batch size and learning rate . if you can hep
